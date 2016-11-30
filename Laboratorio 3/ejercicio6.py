@@ -1,8 +1,11 @@
 print "Diga una edad, y le diré el equivalente en años perro"
 x=float(input())
-if x<=3:
-  edad=x*10.5
-  print edad
+if x<0:
+  print "Error, no hay edades negativas"
 else:
-  xa=((x-3)*4)+31.5
-  print xa
+  if x<=2:
+    edad=x*10.5
+    print edad
+  else:
+    edad=((x-2)*4)+21.0
+    print edad
