@@ -1,5 +1,3 @@
-#Valeria Montserrat Maya González
-
 import matplotlib.pyplot as plt
 import numpy as np
 x=np.linspace(-6,2,100)
