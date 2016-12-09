@@ -1,4 +1,5 @@
 #Ejercicio6
+#Valeria Montserrat Maya Gonzalez
 
 def IMC(m,e):
     imc=round(m/(math.pow(e,2)),2)

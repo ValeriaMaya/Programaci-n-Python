@@ -1,4 +1,5 @@
 #ejercicio 2
+#Valeria Montserrat Maya Gonzalez
 
 import math
 

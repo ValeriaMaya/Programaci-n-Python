@@ -1,4 +1,5 @@
 #Ejercicio 4
+#Valeria Montserrat Maya Gonzalez
 
 def calcularaseg[dd,hh,mm,ss]:
     a=dd*24*60*60

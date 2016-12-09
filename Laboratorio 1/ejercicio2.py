@@ -1,4 +1,5 @@
 #Ejercicio2
+#Valeria Montserrat Maya Gonzlaez
 
 interes_por_year=0.04
 saldo inicial=raw_input("Cantidad a depositar")
