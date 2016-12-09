@@ -1,3 +1,6 @@
+#Ejercicio2
+#Valeria Montserrat Maya Gonzalez
+
 import math
 def sum(x):
   d1=x/1000

@@ -1,3 +1,6 @@
+#Ejercicio6
+#Valeria Montserrat Maya Gonzalez
+
 print "Diga una edad, y le diré el equivalente en años perro"
 x=float(input())
 if x<0:

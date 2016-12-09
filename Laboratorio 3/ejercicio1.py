@@ -1,3 +1,6 @@
+#Ejercicio1
+#Valeria Montserrat Maya Gonzalez
+
 import math
 def dist(lista):
   t1=(lista[0][0])*math.pi/180

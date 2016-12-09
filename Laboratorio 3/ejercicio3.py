@@ -1,3 +1,6 @@
+#Ejercicio3
+#Valeria Montserrat Maya Gonzalez
+
 print "Dame tres número enteros y los ordenaré de menor a mayor"
 x1=int(input("1er Num"))
 x2=int(input("2do Num"))
