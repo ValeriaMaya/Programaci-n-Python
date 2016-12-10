@@ -1,5 +1,6 @@
 #Ejercicio1
 #Valeria Montserrat Maya Gonzalez
+#Función que recive los catetos de un triángulo rectángulo y regresa la magnitud de la hipotenusa
 
 import math
 def hip(x,y):
