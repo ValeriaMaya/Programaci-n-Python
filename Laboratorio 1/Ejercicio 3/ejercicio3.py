@@ -1,5 +1,6 @@
-#ejercicio 2
+#Ejercicio 3
 #Valeria Montserrat Maya Gonzalez
+#Programa que recive un radio, y regresa el area y volumen de un círculo con ese radio
 
 import math
 

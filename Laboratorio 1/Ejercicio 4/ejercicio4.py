@@ -1,5 +1,6 @@
 #Ejercicio 4
 #Valeria Montserrat Maya Gonzalez
+#Covierte el tiempo de un viaje que puede ser dado en días, horas, minutos y/o segundos, y devuelve su equivalente en segundos
 
 def calcularaseg[dd,hh,mm,ss]:
     a=dd*24*60*60
