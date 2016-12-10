@@ -1,3 +1,8 @@
+#Ejercicio5
+#Valeria Montserrat Maya Gonzales
+#Programa que recive una cantidad de segundos y los devuelve a su equivalente en días, horas, minutos y/o segundos
+
+ss=input("Deme una cantidad en segundos")
 def seg(ss):
     if ss<60:
         segundos=ss
@@ -72,3 +77,4 @@ def seg(ss):
                                             print minutos,"minuto(s)"
                                             segundos=((ss%86400)%3600)%60
                                             print segundos,"segundo(s)"
+seg(ss)

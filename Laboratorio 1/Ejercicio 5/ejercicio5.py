@@ -1,4 +1,6 @@
-#Ejercicio 5
+#Ejercicio5
+#Valeria Montserrat Maya Gonzales
+#Programa que recive una cantidad de segundos y los devuelve a su equivalente en días, horas, minutos y segundos
 
 def convierte(ss)
     min=ss/60
@@ -8,4 +10,3 @@ def convierte(ss)
     dd=ss/(24*3600)
     print dd," dias"
     print ss
-  
