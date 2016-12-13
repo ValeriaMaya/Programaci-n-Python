@@ -1,5 +1,5 @@
-def leertxt('name',n):
-    archi=open('name','r'):
-    it=(linea for i, linea in enumerate(archi) if i>=n)
-    for linea in it:
-        print linea
+def leertxt(s,n):
+    archivo=open(s,"r")
+    for linea in range(1,(n+1)):
+        lineas=archivo.readline()
+        print lineas
