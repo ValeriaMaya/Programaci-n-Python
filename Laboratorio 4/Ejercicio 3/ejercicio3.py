@@ -5,7 +5,8 @@
 def numerar(n,m):
     v=open(n,"r")
     nvo=open(m,"w")
-    for linea in v:
-        l=len(v.readline())
-        linea=v.readline()
-        nvo.write("l) "+linea+"\n")
+    nLines=0
+    for currLine in v:
+        nLines=nLines+1
+        for linea in v:
+            nvo.write(nLines+linea+"\n")
