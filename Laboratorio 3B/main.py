@@ -11,6 +11,7 @@ def main():
     load_all_modules_from_dir('Ejercicio1')
     load_all_modules_from_dir('Ejercicio2')
     load_all_modules_from_dir('Ejercicio3')
+    load_all_modules_from_dir('Ejercicio4')
     print "Archivo Principal"
 
 if_name_=='_main_':
