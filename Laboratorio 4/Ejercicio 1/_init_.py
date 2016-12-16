@@ -1,1 +1,1 @@
-import ejercicio
+import ejercicio1
